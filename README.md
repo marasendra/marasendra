@@ -1,6 +1,6 @@
 # Hi there, I'm Marie-Ange! 👋
 
-I'm a passionate data scientist on a mission to turn data into actionable insights and impactful solutions. This repository is a living document of my journey, projects, and explorations in the world of data science. Here’s a bit about me:
+I'm a passionate and curious data scientist. This repository is a living document of my journey, projects, and explorations in the world of data science. 
 
 ## 🌱 Learning
 - Currently diving into **LLMs**.
